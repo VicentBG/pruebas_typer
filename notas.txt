@@ -1,0 +1,2 @@
+{"nota": "Primera nota", "claves": ["nota", "primera"]}
+{"nota": "Segunda nota", "claves": ["nota"]}
